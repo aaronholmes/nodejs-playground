@@ -1,0 +1,12 @@
+This is a file that will
+be shared
+
+through a stream in Node.JS
+
+
+
+
+Let's hope it works
+
+
+as intended!
